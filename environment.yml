@@ -14,13 +14,13 @@ dependencies:
   - cartopy
   - xeofs
   - shapely
-  - rioxarray=0.13.4
-  - gdal=3.5.1
-  - pyproj=3.4.0
-  - ecmwf-api-client=1.6.3
-  - eccodes=2.27.0
-  - cfgrib=0.9.10.2
-  - pygrib=2.1.4
-  - metview-batch=5.17.0
-  - netcdf4=1.6.1
+  - rioxarray
+  - gdal
+  - pyproj
+  - ecmwf-api-client
+  - eccodes
+  - cfgrib
+  - pygrib
+  - metview-batch
+  - netcdf4
   - ipykernel
